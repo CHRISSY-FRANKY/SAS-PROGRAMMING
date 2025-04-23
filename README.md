@@ -1,6 +1,6 @@
 # SPODIFY
 
-## SAS is a dying language, screw the SAS recruiter, repo will become Spodify
+## SAS is a dying language, screw the SAS recruiter, everyone from SAS is moving to R, repo will become Spodify
 
 # SAS PROGRAMMING
 
